@@ -29,5 +29,12 @@ WHERE CONDITION = TRUE
 - Which Brand made the highest profit?
 
 ## Recommendations and Findings 
-- 
+- The sum of Profit and sum of Cost reduces every year
+- The profit make 2017 is differ from the profit made in 2018 and 2019
+- The sale rep that made the highest profit is Jones follow by the Jardine
+- The most Brand with the highest profit Castle which is mostly sold in senegal.
+- when cost was 87m, profit made was 39m
+. when cost was 84m, profit made was 37m
+. when cost was 70m, profit made was 30m 
+. So therefore the reduction the Sum of Cost led to the reduction of Profit for every year 
 
