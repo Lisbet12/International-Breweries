@@ -22,4 +22,7 @@ International Breweries- csv
 - Which Brand made the highest profit?
 
 ## DATA ANALYSIS 
-``` SQL
+```SQL
+SELECT * FROM TABLE 1
+WHERE CONDITION = TRUE
+```
