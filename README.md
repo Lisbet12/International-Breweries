@@ -14,6 +14,13 @@ International Breweries- csv
 - Data inspection and Preparation
 - Handling of Errors in the Data
 - Data cleaning and Formation
+## DATA ANALYSIS 
+
+```SQL
+SELECT * FROM TABLE 1
+WHERE CONDITION = TRUE
+```
+
 ## Exploratory Data Analysis 
 
 - What are the Profit different Within the years?
@@ -21,8 +28,6 @@ International Breweries- csv
 - What are the performance of each Sale Reps?
 - Which Brand made the highest profit?
 
-## DATA ANALYSIS 
-```SQL
-SELECT * FROM TABLE 1
-WHERE CONDITION = TRUE
-```
+## Recommendations and Findings 
+- 
+
