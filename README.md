@@ -1,4 +1,13 @@
 # International-Breweries
+## TABLE CONTENT
+## [Project Overview](#project-overview)
+## [Data Source](#data-source)
+## [Tool](#tool)
+## [Data Cleaning and Preparation](#data-cleaning-and-preparation)
+## [Data Analysis](#data-analysis)
+## [Exploratory Data Analysis](#exploratory-data-analysis)
+## [Inference and Insight](#inference-and-insight)
+
 
 ## Project Overview 
 This project is done give insight on how to make business decisions and also check the rise of profit within the three years. It will also help in checking the trend in sales of the brands
@@ -33,8 +42,8 @@ WHERE CONDITION = TRUE
 - The profit make 2017 is differ from the profit made in 2018 and 2019
 - The sale rep that made the highest profit is Jones follow by the Jardine
 - The most Brand with the highest profit Castle which is mostly sold in senegal.
-- when cost was 87m, profit made was 39m
-. when cost was 84m, profit made was 37m
-. when cost was 70m, profit made was 30m 
+- When cost was 87m, profit made was 39m
+  when cost was 84m, profit made was 37m
+  when cost was 70m, profit made was 30m 
 . So therefore the reduction the Sum of Cost led to the reduction of Profit for every year 
 
