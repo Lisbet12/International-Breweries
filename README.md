@@ -10,7 +10,7 @@
 
 
 ## Project Overview 
-This project is done give insight on how to make business decisions and also check the rise of profit within the three years. It will also help in checking the trend in sales of the brands
+This project is designed to offer valuable insights on effective business decision-making and to assess the growth in profit over a three-year period. It will also monitor and analyze the sales trends of various brands to identify patterns and opportunities for improvement.
 
 ## Data Source 
 International Breweries- csv
@@ -37,6 +37,7 @@ WHERE CONDITION = TRUE
 - What is the total of Profit made in each years?
 - What are the performance of each Sale Reps?
 - Which Brand made the highest profit?
+- What is the overall sale trend?
 
 ![IMG_20241124_222317_307@-231831490](https://github.com/user-attachments/assets/ccfe1402-4b9c-4e67-9646-c743268ef8d5)
 
@@ -52,11 +53,14 @@ WHERE CONDITION = TRUE
 
 
 ## Recommendations and Findings 
+Based on the analysis, we recommend the folowing;
 - The sum of Profit and sum of Cost reduces every year
 - The profit make 2017 is differ from the profit made in 2018 and 2019
-- The sale rep that made the highest profit is Jones follow by the Jardine
+- The sale rep that made the highest profit is Jones follow by the Jardine. Focus on the Training the Sale rep to improve Sales
 - The most Brand with the highest profit Castle which is mostly sold in senegal.
 - When cost was 87m, profit made was 39m
   when cost was 84m, profit made was 37m
-  when cost was 70m, profit made was 30m. So therefore the reduction in the Sum of Cost led to the reduction in Profit for every year 
+  when cost was 70m, profit made was 30m. So therefore the reduction in the Sum of Cost led to the reduction in Profit for every year
+- Investing in marking strategies the improve sales for Hero and Trophy.
+- The business can also be expand to other neighbouring countries.  
 
