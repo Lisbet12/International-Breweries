@@ -39,17 +39,11 @@ WHERE CONDITION = TRUE
 - Which Brand made the highest profit?
 - What is the overall sale trend?
 
-![IMG_20241124_222317_307@-231831490](https://github.com/user-attachments/assets/ccfe1402-4b9c-4e67-9646-c743268ef8d5)
+![Screenshot  2024 liz project](https://github.com/user-attachments/assets/c2aba4aa-32a1-4b48-9347-feacfa2380ed)
 
-![IMG_20241124_224401_002@-1986440368](https://github.com/user-attachments/assets/79c9411c-0fd3-45dd-b072-ae8e049b5244)
+![Screenshot 2024 liz project 2](https://github.com/user-attachments/assets/f05fdc7a-3a6e-4da6-96f7-fbb5258e245e)
+![Screenshot 2024 liz project 3](https://github.com/user-attachments/assets/b0f84ce7-a005-498c-bf05-a17895940c21)
 
-![IMG_20241124_222356_539@-1642656486](https://github.com/user-attachments/assets/f68776e6-e0e2-4a3a-8381-124724cb9dd5)
-
-![IMG_20241125_052934_393@-1814893642](https://github.com/user-attachments/assets/6273f781-ca19-4639-ab61-34f35d714ad7)
-
-![IMG_20241125_052952_334@1236136889](https://github.com/user-attachments/assets/1b50a7fc-2128-472e-ab73-8221e19f9632)
-
-![IMG_20241125_052942_356@1491755738](https://github.com/user-attachments/assets/c5f7c126-6a40-4800-a62d-5c2dd73e6631)
 
 
 ## Recommendations and Findings 
