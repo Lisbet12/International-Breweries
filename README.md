@@ -53,14 +53,51 @@ WHERE CONDITION = TRUE
 
 
 ## Recommendations and Findings 
-Based on the analysis, we recommend the folowing;
-- The sum of Profit and sum of Cost reduces every year
-- The profit make 2017 is differ from the profit made in 2018 and 2019
-- The sale rep that made the highest profit is Jones follow by the Jardine. Focus on the Training the Sale rep to improve Sales
-- The most Brand with the highest profit Castle which is mostly sold in senegal.
-- When cost was 87m, profit made was 39m
-  when cost was 84m, profit made was 37m
-  when cost was 70m, profit made was 30m. So therefore the reduction in the Sum of Cost led to the reduction in Profit for every year
-- Investing in marking strategies the improve sales for Hero and Trophy.
-- The business can also be expand to other neighbouring countries.  
+Findings and Recommendations
+#### Profit and Cost Trends
+
+- Finding: Both the sum of profit and the sum of cost have reduced every year.
+- Recommendation:
+Investigate underlying reasons for declining costs and profits, such as changes in production efficiency, market conditions, or pricing strategies.
+Reassess cost-control measures to ensure they do not negatively impact revenue generation.
+Yearly Profit Comparison
+
+- Finding: Profit in 2017 differs significantly from profits in 2018 and 2019.
+- Recommendation:
+Analyze external factors (e.g., economic shifts, competition) and internal factors (e.g., operational changes) contributing to this disparity.
+Develop strategies to stabilize and increase yearly profits.
+
+#### Top Sales Representatives
+
+- Finding: The sales rep Jones generated the highest profit, followed by Jardine.
+- Recommendation:
+Provide targeted training to sales reps to replicate Jones' and Jardine's successful strategies across the team.
+Implement a reward system to incentivize high-performing reps and motivate others.
+#### Most Profitable Brand and Market
+
+- Finding: Castle is the brand with the highest profit, primarily sold in Senegal.
+- Recommendation:
+Strengthen marketing and distribution strategies for Castle in Senegal to maximize its potential.
+Consider replicating this success in other regions by studying consumer preferences and adapting strategies.
+#### Cost-Profit Relationship
+
+- Finding: Lower costs correspond to lower profits across the years:
+Cost: 87m, Profit: 39m
+Cost: 84m, Profit: 37m
+Cost: 70m, Profit: 30m
+- Recommendation:
+Maintain a balance between cost reduction and profit generation by investing in efficiency without compromising quality or sales.
+Focus on high-margin products to sustain profitability even as costs decrease.
+#### Marketing Strategy for Hero and Trophy
+
+- Finding: Sales performance for Hero and Trophy brands requires improvement.
+- Recommendation:
+Invest in targeted marketing campaigns and promotional strategies to boost brand visibility and sales.
+Conduct customer feedback surveys to identify barriers to sales and address them effectively.
+Expansion Opportunities
+
+- Finding: There is potential to expand the business to neighboring countries.
+- Recommendation:
+Conduct market research to identify high-potential regions for expansion.
+Develop entry strategies, such as partnerships with local distributors or a phased market introduction.
 
