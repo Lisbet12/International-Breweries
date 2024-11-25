@@ -6,7 +6,7 @@
 ## [Data Cleaning and Preparation](#data-cleaning-and-preparation)
 ## [Data Analysis](#data-analysis)
 ## [Exploratory Data Analysis](#exploratory-data-analysis)
-## [Inference and Insight](#inference-and-insight)
+## [Recommendations and Findings](#recommendations-and-findings)
 
 
 ## Project Overview 
@@ -23,6 +23,7 @@ International Breweries- csv
 - Data inspection and Preparation
 - Handling of Errors in the Data
 - Data cleaning and Formation
+  
 ## DATA ANALYSIS 
 
 ```SQL
