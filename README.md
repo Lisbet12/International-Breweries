@@ -37,6 +37,12 @@ WHERE CONDITION = TRUE
 - What are the performance of each Sale Reps?
 - Which Brand made the highest profit?
 
+![IMG_20241124_222317_307@-231831490](https://github.com/user-attachments/assets/ccfe1402-4b9c-4e67-9646-c743268ef8d5)
+![IMG_20241124_224401_002@-1986440368](https://github.com/user-attachments/assets/79c9411c-0fd3-45dd-b072-ae8e049b5244)
+
+![Uploading IMG_20241124_222356_539@-1642656486.jpg…]()
+
+
 ## Recommendations and Findings 
 - The sum of Profit and sum of Cost reduces every year
 - The profit make 2017 is differ from the profit made in 2018 and 2019
@@ -44,6 +50,5 @@ WHERE CONDITION = TRUE
 - The most Brand with the highest profit Castle which is mostly sold in senegal.
 - When cost was 87m, profit made was 39m
   when cost was 84m, profit made was 37m
-  when cost was 70m, profit made was 30m 
-. So therefore the reduction the Sum of Cost led to the reduction of Profit for every year 
+  when cost was 70m, profit made was 30m. So therefore the reduction in the Sum of Cost led to the reduction in Profit for every year 
 
